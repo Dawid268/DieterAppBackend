@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "dieter",
+    "password": "dieter123",
+    "database": "dieter",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": false
+
+  },
+  "test": {
+    "username": "dieter",
+    "password": "dieter123",
+    "database": "dieter",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": false
+
+  },
+  "production": {
+    "username": "dieter",
+    "password": "dieter123",
+    "database": "dieter",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": false
+
+  }
+}
